@@ -1,0 +1,58 @@
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.exe
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.pdb
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Form1.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.pdb
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.SaveForm.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.AddForm.resources
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.exe
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.pdb
+F:\5.4\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe
+F:\5.4\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.pdb
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\ResolveAssemblyReference.cache
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Form1.resources
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Properties.Resources.resources
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.AddForm.resources
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.SaveForm.resources
+F:\5.4\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.ShowRssForm.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe.config
+F:\5.5\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe.config
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.exe
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.pdb
+F:\5.5\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe
+F:\5.5\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.pdb
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\ResolveAssemblyReference.cache
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Form1.resources
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Properties.Resources.resources
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.AddForm.resources
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.SaveForm.resources
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.ShowRssForm.resources
+F:\5.5\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.AddItemForm1.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.UpdateForm1.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.UPdateForm2.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.UpdateForm3.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.SelectForm.resources
+C:\Documents and Settings\Administrator\桌面\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.ShenZhiForm.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe.config
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.exe
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\bin\Debug\RSSReadTech.pdb
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Form1.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.AddForm.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.AddItemForm1.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.SaveForm.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.SelectForm.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.ShenZhiForm.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.ShowRssForm.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.UpdateForm1.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.UPdateForm2.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.SomeForm.UpdateForm3.resources
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.exe
+C:\Documents and Settings\Administrator\桌面\张骏\RSSReadTech\RSSReadTech\obj\Debug\RSSReadTech.pdb

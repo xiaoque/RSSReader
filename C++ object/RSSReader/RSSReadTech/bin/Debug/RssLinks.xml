@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<links>
+  <link>
+    <title>MSDN: .NET Framework and CLR!</title>
+    <uri>fwrss.xml</uri>
+    <defaultshow>true</defaultshow>
+  </link>
+  <link>
+    <title>MSDN: Visual C#</title>
+    <uri>rss.xml</uri>
+    <defaultshow>true</defaultshow>
+  </link>
+  <link>
+    <title>MSN Music - Top Downloaded Songs</title>
+    <uri>msntopsong.xml</uri>
+    <defaultshow>true</defaultshow>
+  </link>
+</links>

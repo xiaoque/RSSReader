@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RSSReadTech.Properties.Resources.resources
+obj\Debug\RSSReadTech.csproj.GenerateResource.Cache
+obj\Debug\RSSReadTech.Form1.resources
+bin\Debug\RSSReadTech.exe
+bin\Debug\RSSReadTech.pdb
+obj\Debug\RSSReadTech.exe
+obj\Debug\RSSReadTech.pdb
+bin\Debug\RSSReadTech.exe.config
+obj\Debug\RSSReadTech.SomeForm.AddForm.resources
+obj\Debug\RSSReadTech.SomeForm.SaveForm.resources
+obj\Debug\RSSReadTech.SomeForm.ShowRssForm.resources
+obj\Debug\RSSReadTech.SomeForm.UpdateForm1.resources
+obj\Debug\RSSReadTech.SomeForm.UPdateForm2.resources
+obj\Debug\RSSReadTech.SomeForm.UpdateForm3.resources
+obj\Debug\RSSReadTech.SomeForm.AddItemForm1.resources

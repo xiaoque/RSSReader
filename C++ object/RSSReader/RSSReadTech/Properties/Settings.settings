@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RSSReadTech.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Saverss" Type="System.String" Scope="User">
+      <Value Profile="(Default)">db</Value>
+    </Setting>
+    <Setting Name="str" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> Data Source=.;Initial Catalog=RSSList;Integrated Security=True
+		</Value>
+    </Setting>
+    <Setting Name="uri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.163.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
